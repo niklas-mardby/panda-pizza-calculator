@@ -1,4 +1,48 @@
+$argentinian_blue: #4bb3fd;
+$honolulu_blue: #027bce;
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: lightcoral;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: $argentinian_blue;
+}
+
+main {
+	min-width: 500px;
+	max-width: 850px;
+	border: solid 5px $honolulu_blue;
+	border-radius: 10px;
+	padding: 1.5rem;
+}
+
+section {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 1.5rem;
+}
+
+section > * {
+	border: solid 5px $honolulu_blue;
+	border-radius: 10px;
+	padding: 1.5rem;
+	flex-grow: 1;
+}
+/*.CreatePizza {
+}
+
+.EditPizzaForm {
+	
+}
+
+.PizzaOrder {
+	
+}
+*/
+
+.PizzaCard {
+	border: solid 2px $honolulu_blue;
+	border-radius: 10px;
+	padding: 1.5rem;
 }

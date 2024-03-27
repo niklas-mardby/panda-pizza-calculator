@@ -1,11 +1,6 @@
 import React, { useReducer, createContext } from "react";
-//import uuid from "react-uuid";
-
-type Pizza = {
-	id: string;
-	name: string;
-	size: string;
-};
+// import uuid from "react-uuid";
+import { Pizza } from "./types/pizzas";
 
 type GlobalState = {
 	currentPizza: Pizza | null;

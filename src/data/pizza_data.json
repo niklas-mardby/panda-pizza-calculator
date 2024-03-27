@@ -1,0 +1,265 @@
+{
+	"topping": [
+		{
+			"name": "Pepperoni",
+			"cost": 1.5,
+			"description": "Classic spicy cured pork topping",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Mushrooms",
+			"cost": 1.0,
+			"description": "Sliced mushrooms with earthy flavor",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Onions",
+			"cost": 0.75,
+			"description": "Sweet and tangy diced onions",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Green Peppers",
+			"cost": 0.75,
+			"description": "Fresh and crunchy green bell peppers",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Black Olives",
+			"cost": 1.25,
+			"description": "Sliced ripe black olives",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Sausage",
+			"cost": 1.75,
+			"description": "Savory Italian sausage",
+			"spiciness_level": "Medium"
+		},
+		{
+			"name": "Bacon",
+			"cost": 2.0,
+			"description": "Crispy and smoky bacon strips",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Jalapenos",
+			"cost": 1.25,
+			"description": "Spicy sliced jalapeno peppers",
+			"spiciness_level": "Hot"
+		},
+		{
+			"name": "Pineapple",
+			"cost": 1.5,
+			"description": "Sweet and tangy pineapple chunks",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Ham",
+			"cost": 1.75,
+			"description": "Juicy and flavorful ham pieces",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Spinach",
+			"cost": 1.25,
+			"description": "Fresh and leafy spinach leaves",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Feta Cheese",
+			"cost": 1.5,
+			"description": "Tangy crumbled feta cheese",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Roasted Red Peppers",
+			"cost": 1.5,
+			"description": "Sweet and smoky roasted red bell peppers",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Sun-dried Tomatoes",
+			"cost": 1.75,
+			"description": "Intensely flavored sun-dried tomatoes",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Pesto Sauce",
+			"cost": 1.5,
+			"description": "Rich and aromatic basil pesto sauce",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "BBQ Chicken",
+			"cost": 2.0,
+			"description": "Tender chicken marinated in tangy barbecue sauce",
+			"spiciness_level": "Medium"
+		},
+		{
+			"name": "Caramelized Onions",
+			"cost": 1.75,
+			"description": "Sweet and savory caramelized onions",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Goat Cheese",
+			"cost": 1.75,
+			"description": "Creamy and tangy goat cheese crumbles",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Buffalo Mozzarella",
+			"cost": 1.5,
+			"description": "Fresh and creamy buffalo mozzarella slices",
+			"spiciness_level": "Low"
+		},
+		{
+			"name": "Spicy Italian Sausage",
+			"cost": 1.75,
+			"description": "Zesty Italian sausage with a kick of red pepper flakes",
+			"spiciness_level": "Hot"
+		},
+		{
+			"name": "Banana Peppers",
+			"cost": 1.25,
+			"description": "Thinly sliced banana peppers for a tangy and spicy flavor",
+			"spiciness_level": "Medium"
+		},
+		{
+			"name": "Ghost Pepper",
+			"cost": 2.5,
+			"description": "Intensely spicy ghost pepper slices for those who crave extreme heat",
+			"spiciness_level": "Very Hot"
+		}
+	],
+	"cheese": [
+		{
+			"name": "Mozzarella",
+			"cost": 1.5,
+			"description": "Classic Italian cheese known for its creamy texture and mild flavor"
+		},
+		{
+			"name": "Cheddar",
+			"cost": 1.75,
+			"description": "Sharp and tangy cheese with a rich flavor, perfect for melting"
+		},
+		{
+			"name": "Provolone",
+			"cost": 1.75,
+			"description": "Smooth and nutty cheese with a mild flavor, ideal for pizzas and sandwiches"
+		},
+		{
+			"name": "Parmesan",
+			"cost": 2.0,
+			"description": "Hard and granular cheese with a rich, nutty flavor, often grated over pizzas"
+		},
+		{
+			"name": "Gorgonzola",
+			"cost": 2.25,
+			"description": "Blue cheese with a creamy texture and bold, tangy flavor, adds depth to pizzas"
+		}
+	],
+	"dough": [
+		{
+			"name": "Traditional",
+			"cost": 0.0,
+			"description": "Classic pizza dough made from flour, water, yeast, and salt, perfect for a timeless taste"
+		},
+		{
+			"name": "Whole Wheat",
+			"cost": 1.0,
+			"description": "Nutty and wholesome pizza dough made from whole wheat flour, a healthier option"
+		},
+		{
+			"name": "Gluten-Free",
+			"cost": 2.0,
+			"description": "Dough made without gluten-containing ingredients, suitable for those with gluten sensitivities"
+		},
+		{
+			"name": "Cauliflower Crust",
+			"cost": 2.5,
+			"description": "Low-carb and gluten-free crust made from cauliflower, a lighter alternative to traditional dough"
+		},
+		{
+			"name": "Thin Crust",
+			"cost": 0.5,
+			"description": "Light and crispy crust rolled thin, allowing the toppings to shine"
+		},
+		{
+			"name": "Stuffed Crust",
+			"cost": 3.0,
+			"description": "Traditional pizza dough with a ring of melted cheese stuffed inside the crust for an extra cheesy experience"
+		},
+		{
+			"name": "Herb Crust",
+			"cost": 1.5,
+			"description": "Pizza dough infused with aromatic herbs like rosemary, thyme, and oregano for added flavor"
+		},
+		{
+			"name": "Sourdough",
+			"cost": 2.0,
+			"description": "Rustic and tangy pizza dough fermented with sourdough starter for a distinctive taste and chewy texture"
+		},
+		{
+			"name": "Neapolitan",
+			"cost": 2.5,
+			"description": "Authentic Italian pizza dough made from high-protein flour, hand-stretched and cooked at high temperatures in a wood-fired oven"
+		},
+		{
+			"name": "Deep Dish",
+			"cost": 2.5,
+			"description": "Thick and hearty pizza dough pressed into a deep pan, topped with layers of cheese, sauce, and toppings"
+		}
+	],
+	"sauce": [
+		{
+			"name": "Sassy Marinara",
+			"spiciness_level": "Low",
+			"description": "A classic marinara sauce with a hint of sass, perfect for those who prefer mild flavors",
+			"cost": 1.5
+		},
+		{
+			"name": "Fiery Inferno",
+			"spiciness_level": "Medium",
+			"description": "Spicy tomato sauce with a fiery kick, sure to ignite your taste buds",
+			"cost": 1.75
+		},
+		{
+			"name": "Blazin' Diablo",
+			"spiciness_level": "Hot",
+			"description": "Intensely hot tomato sauce packed with flavor, not for the faint of heart",
+			"cost": 2.0
+		},
+		{
+			"name": "Flamin' Fury",
+			"spiciness_level": "Very Hot",
+			"description": "Extreme heat in every bite, this tomato sauce will leave you breathless and craving more",
+			"cost": 2.25
+		},
+		{
+			"name": "Zesty Tango",
+			"spiciness_level": "Medium",
+			"description": "Tomato sauce with a zesty twist, combining tangy flavors with a hint of spice",
+			"cost": 1.75
+		},
+		{
+			"name": "Smoky Chipotle",
+			"spiciness_level": "Medium",
+			"description": "Rich and smoky tomato sauce infused with chipotle peppers for a bold flavor",
+			"cost": 1.95
+		},
+		{
+			"name": "Sweet & Spicy BBQ",
+			"spiciness_level": "Hot",
+			"description": "A unique blend of sweet barbecue sauce with a kick of spice, perfect for barbecue lovers",
+			"cost": 1.85
+		},
+		{
+			"name": "Garlic Lover's Delight",
+			"spiciness_level": "Low",
+			"description": "Tomato sauce infused with garlic and herbs for a flavorful and aromatic experience",
+			"cost": 1.65
+		}
+	]
+}
